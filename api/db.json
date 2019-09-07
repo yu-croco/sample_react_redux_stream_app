@@ -1,0 +1,25 @@
+{
+  "streams": [
+    {
+      "title": "sasasa",
+      "description": "ffff",
+      "id": 1
+    },
+    {
+      "title": "asasa",
+      "description": "fvvv",
+      "id": 2
+    },
+    {
+      "title": "new streaming component reuse",
+      "description": "watch me watch meeeee",
+      "id": 7
+    },
+    {
+      "title": "hello",
+      "description": "world",
+      "userId": "107305991087465337124",
+      "id": 8
+    }
+  ]
+}
